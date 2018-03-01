@@ -1,0 +1,12 @@
+# Site settings
+title: Homepage of Darshan Santani
+email: darshan.santani@gmail.com
+author: Darshan Santani
+alias: dsantani
+description: "Homepage of Darshan Santani"
+baseurl: "http://idiap.ch/~dsantani"
+url: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty

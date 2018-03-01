@@ -1,0 +1,42 @@
+/*
+ Customizations based by dsantani, 28 May 2016
+*/
+
+ul {
+  padding-left: 15px;
+}
+
+.puba {
+  font-size: 16px;
+  color: #900;
+}
+.pubv {
+  color: #090;
+  font-size: 16px;
+  font-weight:400;
+}
+
+.svgico {
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.label-default {
+	display: inline-block;
+	padding: .2em .6em .3em;	
+	max-width: 100%;
+    font-size: 95%;
+	font-weight: normal;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    background-color: #337ab7;
+	background-color: #5cb85c;
+	background-color: #990615;	
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
