@@ -9,6 +9,8 @@ My doctoral research takes a multidisciplinary approach to the computational cha
 
 ### News and Updates
 ------
++ **Jan 2018:** Our long-awaited paper on [characterizing drinking behavior of young adults using smartphones](http://www.idiap.ch/~gatica/publications/SantaniDoLabhartLandoltKunstcheGatica-tmc18.pdf) has been published at [IEEE Transactions on Mobile Computing](http://ieeexplore.ieee.org/document/8268647/?reload=true).
+
 + **Oct 2017:** Our research on [examining ambiance perception through scene semantics](http://www.idiap.ch/~gatica/publications/BenkheddaSantaniGatica-mm17.pdf) was presented at the MM 2017.
 
 + **June 2017:** Presented our research on [comparing urban impressions between population groups]({{ site.baseurl }}/assets/papers/icmr-17.pdf) at ACM ICMR 2017.
