@@ -4,7 +4,7 @@ email: darshan.santani@gmail.com
 author: Darshan Santani
 alias: dsantani
 description: "Homepage of Darshan Santani"
-baseurl: "https://dsantani.github.io/"
+baseurl: "https://dsantani.github.io"
 url: ""
 
 # Build settings
