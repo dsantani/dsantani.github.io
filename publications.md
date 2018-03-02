@@ -18,7 +18,7 @@ In this research, we address the question of what visual cues, including scene o
 
 <span class="puba"> Darshan Santani, Rui Hu, Daniel Gatica-Perez | <span class="pubv">ACM MM 2016</span> </span>
 
-In this paper, we build upon our [earlier work]({{ site.baseurl }}/assets/papers/acm-mm-15.pdf) on characterizing ambiance of indoor places. We present a methodology to automatically infer impressions of place ambiance, using generic deep learning features extracted from images publicly shared on Foursquare. We base our methodology on a corpus of over 45,000 images from 300 popular places in six cities. Our results indicate the feasibility to automatically infer place ambiance with a maximum R<sup>2</sup> of 0.53 using features extracted from a pre-trained convolutional neural network. We found that deep learning features consistently outperformed individual and combinations of several low-level image features (including Color, GIST, HOG and LBP) to infer all the studied ambiance dimensions. Our work constitutes a first study to automatically infer ambiance impressions of indoor places from deep features learned from images shared on social media. [**PDF**](http://www.idiap.ch/~gatica/publications/BenkheddaSantaniGatica-mm17.pdf)
+In this paper, we build upon our [earlier work]({{ site.baseurl }}/assets/papers/acm-mm-15.pdf) on characterizing ambiance of indoor places. We present a methodology to automatically infer impressions of place ambiance, using generic deep learning features extracted from images publicly shared on Foursquare. We base our methodology on a corpus of over 45,000 images from 300 popular places in six cities. Our results indicate the feasibility to automatically infer place ambiance with a maximum R<sup>2</sup> of 0.53 using features extracted from a pre-trained convolutional neural network. We found that deep learning features consistently outperformed individual and combinations of several low-level image features (including Color, GIST, HOG and LBP) to infer all the studied ambiance dimensions. Our work constitutes a first study to automatically infer ambiance impressions of indoor places from deep features learned from images shared on social media. [**PDF**]({{ site.baseurl }}/assets/papers/acm-mm-16.pdf)
 
 ---
 
@@ -36,7 +36,7 @@ This work outlines the design and implementation of a large-scale mobile crowdse
 
 ### SenseCityVity: Mobile Crowdsourcing, Urban Awareness, and Collective Action in Mexico ###
 
-<span class="puba"> S. Ruiz-Correa, D. Santani, B. R. Salazar, I. Ruiz-Correa, F. A. Rendon-Huerta, C. O. Carrillo, B. C. S. Mexicano, A. H. A. Garcia, R. H. Beltran, D. Gatica-Perez | <span class="pubv">IEEE Pervasive Computing 2016</span> </span> (*Forthcoming*)
+<span class="puba"> S. Ruiz-Correa, D. Santani, B. R. Salazar, I. Ruiz-Correa, F. A. Rendon-Huerta, C. O. Carrillo, B. C. S. Mexicano, A. H. A. Garcia, R. H. Beltran, D. Gatica-Perez | <span class="pubv">IEEE Pervasive Computing 2017</span> </span>
 
 <div style="float: left">
 	<img src="../assets/images/sensecityvity.jpg" width="280" height="280" hspace="0" />
