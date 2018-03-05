@@ -7,6 +7,9 @@ description: "Homepage of Darshan Santani"
 baseurl: "https://dsantani.github.io"
 url: ""
 
+# Google Analytics
+ga_tracking_id: UA-777637-2
+
 # Build settings
 markdown: kramdown
 permalink: pretty
