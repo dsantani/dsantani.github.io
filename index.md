@@ -15,7 +15,7 @@ My doctoral research takes a multidisciplinary approach to the computational cha
 
 + **June 2017:** Presented our research on [comparing urban impressions between population groups]({{ site.baseurl }}/assets/papers/icmr-17.pdf) at ACM ICMR 2017.
 
-+ **December 2016:** Awarded the [Idiap PhD Student Award 2016](http://www.idiap.ch/education-and-jobs/news/idiap-awards-2016).
++ **December 2016:** Awarded the [Idiap PhD Student Research Award 2016](http://www.idiap.ch/en/scientific-research/awards/previous/2016-idiap-awards).
 
 + **December 2016:** Our collaboration with Lausanne's Observatory of Security on street harassment was covered by various local media outlets including [RTS](https://www.rts.ch/info/regions/vaud/8252823-lausanne-veut-agir-contre-le-phenomene-du-harcelement-de-rue.html), [La Tele](http://www.latele.ch/play?i=l-actu-lausanne-reconnait-le-harcelement-de-rue-et-veut-changer-19-12-2016-1800), [24 Heures](http://www.24heures.ch/vaud-regions/lausanne-lutter-harcelement-rue/story/11980914), [20min](http://www.20min.ch/ro/news/vaud/story/Le-harcelement-de-rue-est-une-realite-a-Lausanne-19043945), [Le Temps](https://www.letemps.ch/suisse/2016/12/19/72-jeunes-lausannoises-se-disent-harcelees-rue), and [Le Courrier](http://www.lecourrier.ch/145224/lausanne_veut_agir_contre_le_harcelement_de_rue).
 
