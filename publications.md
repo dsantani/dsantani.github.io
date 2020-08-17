@@ -27,7 +27,7 @@ In this paper, we build upon our [earlier work]({{ site.baseurl }}/assets/papers
 <span class="puba"> D. Santani, J-I. Biel, F. Labhart, J. Truong, S. Landolt, E. Kuntsche, D. Gatica-Perez | <span class="pubv">UbiComp 2016</span> </span>
 
 <div style="float: left">
-	<img src="http://idiap.ch/~dsantani/assets/images/ubicomp-16.jpg" width="260" height="210" hspace="0" />
+	<img src="../assets/images/ubicomp-16.jpg" width="260" height="210" hspace="0" />
 </div>
 
 This work outlines the design and implementation of a large-scale mobile crowdsensing study (called [Youth@Night](https://www.youth-night.ch/)) to capture and examine the nightlife patterns and behavior of young people in two cities of Switzerland. Using smartphones, we conducted an "in-the-wild" study with more than 200 participants over a period of three months to capture in-situ data on places, social context and nightlife activities. During the study, we also asked participants to record mobile videos capturing the ambiance of visited places. The study resulted in a total of 1,394 unique place visits and 843 videos that spread across diverse place categories (including personal homes and public parks), social and ambiance variables. Using the video dataset, we conducted a computational analysis to measure the extent to which automatically extracted loudness and brightness of places represent the crowdsourced annotations by both in-situ participants and external online observers. [**PDF**]({{ site.baseurl }}/assets/papers/ubicomp-16.pdf) \|\| [**Slides**](http://www.slideshare.net/dsantani/the-night-is-young-urban-crowdsourcing-of-nightlife-patterns)
